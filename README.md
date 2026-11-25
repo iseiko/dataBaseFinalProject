@@ -1,6 +1,6 @@
 # Projeto Final BD-II — E-commerce de Eletrônicos (PostgreSQL)
 
-> Scripts escritos para PostgreSQL 14+. **Não foram executados num servidor real durante a elaboração** — rode o `00_executar_tudo.sql` e ajuste o que o seu ambiente pedir.
+> Scripts escritos para PostgreSQL 14+. 
 
 ## Ordem de execução
 
